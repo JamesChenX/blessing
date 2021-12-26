@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\Blessing.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\Blessing.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\png1.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\0.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\1.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\2.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\3.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\4.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\5.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\6.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\7.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\8.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\9.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\10.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\11.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\12.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\13.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\14.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\15.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\16.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\17.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\18.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\19.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\20.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\21.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\22.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\23.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\24.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\25.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\26.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\27.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\28.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\29.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\30.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\31.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\32.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\33.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\34.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\35.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\36.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\37.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\38.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\39.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\40.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\41.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\42.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\43.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\44.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\45.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\46 .png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\47.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\48.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\49.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\50.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\51.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\52.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\53.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\54.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\55.png">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\56.png">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Blessing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BlessingDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MCI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RoseDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TextDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Blessing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BlessingDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RoseDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TextDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Blessing.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
